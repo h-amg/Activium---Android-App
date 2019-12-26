@@ -26,7 +26,7 @@ Organize sport competitions and league like a pro and let Activium do all the ha
 <img src=".\screenshots\sc_1.png" width="150">  <img src=".\screenshots\sc_2.png" width="150"> <img src=".\screenshots\sc_3.png" width="150">  <img src=".\screenshots\sc_4.png" width="150">  <img src=".\screenshots\sc_5.png" width="150">
 
 
-## Acknowledgments
+## Credits
 
 The webview in this project is based on an the open source project [Android-SmartWebView](https://github.com/mgks/Android-SmartWebView) developed by [Ghazi Khan: mgks](https://github.com/mgks)
 
