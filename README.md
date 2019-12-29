@@ -1,6 +1,5 @@
-<a href="https://athletegrind.bubbleapps.io/"><img src=".\app\src\main\res\raw\logo.png" width="65"></a> 
 
-# [Activium](https://athletegrind.bubbleapps.io/) Android App
+# <a href="https://athletegrind.bubbleapps.io/"><img src=".\app\src\main\res\raw\logo.png" width="65"></a>&nbsp; [Activium](https://athletegrind.bubbleapps.io/) Android App
 ### **Sport activities management platform**
 ---
 
@@ -31,5 +30,3 @@ Organize sport competitions and league like a pro and let Activium do all the ha
 The webview in this project is based on an the open source project [Android-SmartWebView](https://github.com/mgks/Android-SmartWebView) developed by [Ghazi Khan: mgks](https://github.com/mgks)
 
 The Rating method (Android-Rate) used in this project is developed by [hotchemi](https://github.com/hotchemi).
-
-
