@@ -1,6 +1,8 @@
 
 # <a href="https://athletegrind.bubbleapps.io/"><img src=".\app\src\main\res\raw\logo.png" width="65"></a>&nbsp; [Activium](https://athletegrind.bubbleapps.io/) Android App
 ### **Sport activities management platform**
+Check it out on [Googloe play](https://play.google.com/store/apps/details?id=activium.os.webview)
+
 ---
 
 #### Find activities
